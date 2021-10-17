@@ -4,6 +4,8 @@ import torch
 import itertools
 import numpy as np
 import nltk
+import pickle
+
 from nltk.stem import PorterStemmer
 
 #from gensim.models import Word2Vec
