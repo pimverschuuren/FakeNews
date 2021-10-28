@@ -1,2 +1,2 @@
 # FakeNews
-A ML model build to classify text from news articles as real or fake
+Three NLP models for binary text classification. The input are articles labelled as fake or true. The models can be run by opening the notebooks in Google Colab.
